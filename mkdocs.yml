@@ -1,0 +1,35 @@
+site_name: Jardim do Conhecimento
+
+repo_name: Yggdrasil
+repo_url: 'https://github.com/OrcestraGamificacao/Yggdrasil-Docs'
+
+docs_dir: yggdrasil_docs/
+site_dir: docs/
+
+copyright: 'Copyright &copy; 2020 Yggdrasil'
+
+theme:
+  name: 'material'
+  favicon: Images/logo.png
+  logo: Images/logo.png
+  features:
+    - navigation.tabs
+  palette:
+    - scheme: 'slate'
+      primary: deep purple
+      accent: deep purple
+nav:
+  - Início: index.md
+  - Doc Arquitetura:
+    - architecture.md
+  - Doc Visão:
+    - vision.md
+  - Roadmap:
+    - roadmap.md
+  - Backlog:
+    - backlog.md
+  - Políticas:
+    - Branch: Policies/branch.md
+    - Commit: Policies/commit.md
+    - Issue: Policies/issue.md
+    - PR: Policies/pr.md
