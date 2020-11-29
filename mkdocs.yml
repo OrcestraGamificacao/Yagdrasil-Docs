@@ -10,8 +10,8 @@ copyright: 'Copyright &copy; 2020 Yggdrasil'
 
 theme:
   name: 'material'
-  favicon: Images/logo.png
-  logo: Images/logo.png
+  favicon: Images/Logo.svg
+  logo: Images/Logo.svg
   features:
     - navigation.tabs
   palette:
