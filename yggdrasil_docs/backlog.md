@@ -7,3 +7,9 @@ O Product Backlog é uma lista com prioridades dos requisitos ou funcionalidades
 ## Backlog - v1
 
 ![Backlog V1](Images/backlog-v1.png)
+
+## Versionamento
+
+Data | Versão | Descrição | Autor
+---- | ------ | --------- | -----
+29/11/2020 | 0.1 | Adição da primeira versão do backlog | Fellipe Araujo
