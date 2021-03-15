@@ -47,7 +47,7 @@ Usuário Interno | Funcionários que utilizam o software | Responsáveis por ent
 
 Necessidade | Prioridade | Solução Atual | Solução Proposta
 ----------- | ---------- | ------------- | ----------------
-- | - | - | -
+O usuário necessita ter acesso a tela do jardim | Alta | O usuário ao buscar o conteúdo que queira na tela principal, será apresentado no mapa mundi plano os jardins de sua preferência. | Criar um mapa do mundo em 3d para que o usuário possa localizar o jardim escolhido ao pesquisar sobre o assunto preferido.
 
 ## 4. Visão Geral do Produto
 
@@ -78,3 +78,4 @@ Acompanhar a trilha de Conhecimento Pessoal: |Ao entrar em um Jardim, aparecerá
 Data | Versão | Descrição | Autor
 ---- | ------ | --------- | -----
 23/11/2020 | 0.1 | Tópicos 4.1, 4.2 | Natan Santana
+15/03/2021 | 0.2 | Tópicos 3.1, 3.2, 3.3, 3.7 | Lucas Macedo
