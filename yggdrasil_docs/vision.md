@@ -24,13 +24,22 @@
 
 ### 3.1 Dados Demográficos do Mercado
 
+<p style="text-align: justify;">&emsp;&emsp;
+A Orc’estra Gamificação tem como um dos seus principais serviços a criação de um software gamificado, de forma para dar maior engajamento aos usuários ao utilizar o produto. A Empresa Júnior já trabalhou em vários projetos de desenvolvimento, recebendo nota promissora ao executá-la, entregando um produto de qualidade ao final. O jardim do conhecimento foi pensado e elaborado da melhor forma para que o usuário guie-se pelo caminho consiga entender os projetos internos da Empresa. Os benefícios deste projeto atende toda a KipoKm, dando uma maior autonomia aos usuários para se atualizar sobre os projetos em andamento. 
+</p>
+
 ### 3.2 Resumo da parte interessada
 
 Nome | Representa | Função
 ---- | ---------- | ------
-- | - | -
+Administradores | Figura de criador dos projetos  | O administrador será responsável por criar os cards de projetos que está ocorrendo na empresa
+Usuário Interno | Funcionários que utilizam o software | Responsáveis por entender sobre o conteúdo, compreendendo o escopo dos projetos 
 
 ### 3.3 Resumo do Usuário
+
+<p style="text-align: justify;">&emsp;&emsp;
+ O usuário terá acesso ao mapa, onde ele vai pesquisar um conteúdo de sua preferência e assim localizar o jardim. Ao entrar, o usuário seleciona uma árvore referente ao tema de estudo, e assim, clicando na folha, conseguirá ter acesso aos dados do projeto, adquirindo conhecimento sobre a data que foi pedida, aos detalhes do projeto e os responsáveis por este. O sistema de cores será responsável por saber qual objeto ele já visualizou e o que foi visualizado, vendo seu progresso realizado. 
+ </p> 	
 
 ### 3.7 Principais Necessidades da Parte Interessada ou do Usuário
 
