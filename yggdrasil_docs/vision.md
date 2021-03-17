@@ -86,3 +86,4 @@ Data | Versão | Descrição | Autor
 ---- | ------ | --------- | -----
 23/11/2020 | 0.1 | Tópicos 4.1, 4.2 | Natan Santana
 15/03/2021 | 0.2 | Tópicos 3.1, 3.2, 3.3, 3.7 | Lucas Macedo
+17/03/2021 | 0.3 | Tópico 6 | Luiz Henrique 
