@@ -73,6 +73,13 @@ Acompanhar a trilha de Conhecimento Pessoal: |Ao entrar em um Jardim, aparecerá
 
 ## 6. Restrições
 
+* A Orc’estra Gamificação deverá desenvolver o Front-end da aplicação e realizar a integração com o Back-end desenvolvido pela KiPo-KM;
+* O Front-end da aplicação será desenvolvido utilizando a biblioteca React do JavaScript;
+* O Back-end deverá ser desenvolvido em uma linguagem que possibilita a integração com o React JS;
+* O Back-end deverá possuir as regras de negócio para o funcionamento do Software;
+* O Back-end deverá possuir os dados de negócios necessários para o funcionamento do Front-end;
+* O Back-end deverá ser disponibilizado em tempo hábil a Orc’estra Gamificação para integração com o Front-end.
+
 ## Versionamento
 
 Data | Versão | Descrição | Autor
