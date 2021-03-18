@@ -1,19 +1,40 @@
 # Documento de Visão
 
+## Histórico de Versionamento
+Data | Versão | Descrição | Autor |
+---- | ------ | --------- | ----- |
+23/11/2020 | 0.1 | Tópicos 4.1, 4.2 | Natan Santana |
+15/03/2021 | 0.2 | Tópicos 3.1, 3.2, 3.3, 3.7 | Lucas Macedo |
+17/03/2021 | 0.3 | Tópico 6 | Luiz Henrique |
+18/03/2021 | 0.4 | Tópicos 1.1, 1.2, 1.3 e 1.4 | Fellipe Araujo |
+
 ## 1. Introdução
 
 ### 1.1 Propósito
+<p style="text-align: justify;">&emsp;&emsp;
+Este documento apresenta o detalhamento e as justificativas referentes ao desenvolvimento do projeto Yagdrasil, além de deixar explícito o contexto em que este software atuará. Este documento visa, também, apresentar modelos para representar o funcionamento e os detalhes do software.
+</p>
 
 ### 1.2 Escopo
+<p style="text-align: justify;">&emsp;&emsp;
+O Documento de Visão tem o objetivo de deixar explícito os problemas em que o projeto Yagdrasil se propõe a resolver e as soluções em que o mesmo se propõe a adotar para atingir seu objetivo. É importante ressaltar que este documento será evoluído ao decorrer do desenvolvimento do projeto.
+</p>
 
 ### 1.3 Definições, Acrônimos e Abreviações
+Termo | Descrição |
+----- | --------- |
+KipoKM | Startup do grupo gestão inovadora |
+Gamificação | É o uso de mecânicas e características de jogos para engajar, motivar comportamentos e facilitar o aprendizado de pessoas em situações reais, normalmente não relacionados a jogos |
+Framework | Na gamificação, é uma abstração de um conjunto de técnicas de design de gamificação que podem ser aplicadas, independente do contexto, para desenvolver um produto gamificado |
+Frontend | Parte visual de uma aplicação (interface gráfica) com o qual um usuário possa interagir |
+Backend | Parte de um software responsável pelas regras de negócios da aplicação |
 
-### 1.4 Referências
-
-### 1.5 Visão Geral
+### 1.4 Visão Geral
+<p style="text-align: justify;">&emsp;&emsp;
+A ideia principal deste Documento de Visão é fornecer de maneira objetiva e organizada as características e utilidades da aplicação, além dos assuntos que tangem à problemática inicial, o posicionamento do produto, o detalhamento dos perfis interessados e dos usuários, recursos, restrições e requisitos do produto.
+</p>
 
 ## 2. Posicionamento
-
 ### 2.1 Oportunidade de Negócios
 
 ### 2.2 Instrução do Problema
@@ -73,17 +94,9 @@ Acompanhar a trilha de Conhecimento Pessoal: |Ao entrar em um Jardim, aparecerá
 
 ## 6. Restrições
 
-* A Orc’estra Gamificação deverá desenvolver o Front-end da aplicação e realizar a integração com o Back-end desenvolvido pela KiPo-KM;
-* O Front-end da aplicação será desenvolvido utilizando a biblioteca React do JavaScript;
-* O Back-end deverá ser desenvolvido em uma linguagem que possibilita a integração com o React JS;
-* O Back-end deverá possuir as regras de negócio para o funcionamento do Software;
-* O Back-end deverá possuir os dados de negócios necessários para o funcionamento do Front-end;
-* O Back-end deverá ser disponibilizado em tempo hábil a Orc’estra Gamificação para integração com o Front-end.
-
-## Versionamento
-
-Data | Versão | Descrição | Autor
----- | ------ | --------- | -----
-23/11/2020 | 0.1 | Tópicos 4.1, 4.2 | Natan Santana
-15/03/2021 | 0.2 | Tópicos 3.1, 3.2, 3.3, 3.7 | Lucas Macedo
-17/03/2021 | 0.3 | Tópico 6 | Luiz Henrique 
+* A Orc’estra Gamificação deverá desenvolver o Frontend da aplicação e realizar a integração com o Backend desenvolvido pela KipoKM;
+* O Frontend da aplicação será desenvolvido utilizando a biblioteca React do JavaScript;
+* O Backend deverá ser desenvolvido em uma linguagem que possibilita a integração com o ReactJS;
+* O Backend deverá possuir as regras de negócio para o funcionamento do Software;
+* O Backend deverá possuir os dados de negócios necessários para o funcionamento do Frontend;
+* O Backend deverá ser disponibilizado em tempo hábil a Orc’estra Gamificação para integração com o Frontend.
