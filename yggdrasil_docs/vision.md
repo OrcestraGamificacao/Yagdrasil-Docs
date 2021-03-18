@@ -11,16 +11,19 @@ Data | Versão | Descrição | Autor |
 ## 1. Introdução
 
 ### 1.1 Propósito
+
 <p style="text-align: justify;">&emsp;&emsp;
 Este documento apresenta o detalhamento e as justificativas referentes ao desenvolvimento do projeto Yagdrasil, além de deixar explícito o contexto em que este software atuará. Este documento visa, também, apresentar modelos para representar o funcionamento e os detalhes do software.
 </p>
 
 ### 1.2 Escopo
+
 <p style="text-align: justify;">&emsp;&emsp;
 O Documento de Visão tem o objetivo de deixar explícito os problemas em que o projeto Yagdrasil se propõe a resolver e as soluções em que o mesmo se propõe a adotar para atingir seu objetivo. É importante ressaltar que este documento será evoluído ao decorrer do desenvolvimento do projeto.
 </p>
 
 ### 1.3 Definições, Acrônimos e Abreviações
+
 Termo | Descrição |
 ----- | --------- |
 KipoKM | Startup do grupo gestão inovadora |
@@ -30,16 +33,29 @@ Frontend | Parte visual de uma aplicação (interface gráfica) com o qual um us
 Backend | Parte de um software responsável pelas regras de negócios da aplicação |
 
 ### 1.4 Visão Geral
+
 <p style="text-align: justify;">&emsp;&emsp;
 A ideia principal deste Documento de Visão é fornecer de maneira objetiva e organizada as características e utilidades da aplicação, além dos assuntos que tangem à problemática inicial, o posicionamento do produto, o detalhamento dos perfis interessados e dos usuários, recursos, restrições e requisitos do produto.
 </p>
 
 ## 2. Posicionamento
+
 ### 2.1 Oportunidade de Negócios
+<p style="text-align: justify;">&emsp;&emsp;
+Com a implantação do Jardim de Conhecimento, o funcionários conseguiram ter acesso mais fácil aos projetos internos. A partir dos assuntos principais, cada usuário tem a autonomia própria para pesquisar sobre conteúdos, se aprofundando pelos projetos com detalhes de cada um.
+</p>
 
 ### 2.2 Instrução do Problema
 
+<p style="text-align: justify;">&emsp;&emsp;
+O problema de não ter os projetos detalhados e acessível para os funcionários afeta toda a empresa, onde terá pessoas que muitas vezes não sabem dos problemas que a empresa já enfrentou e o que foi feito de solução. Dessa forma, o impacto do problema se torna que não tenham conhecimento sobre a empresa em si, eles irão conseguir saber detalhes, quanto tempo durou e o que foi feito na situação. Com o auxílio do jardim de conhecimento, agora os usuários conseguiram entender melhor sobre os contéudos que a empresa trabalha, tanto seus projetos e processos.
+</p>
+
 ### 2.3 Instrução de Posição do Produto
+
+<p style="text-align: justify;">&emsp;&emsp;
+Para os usuários internos que necessitam obter informações de serviços e projetos desenvolvidos pela empresa. O Jardim do Conhecimento é um software gamificado que visa desenvolver a autonomia dos funcionários navegando por jardins para conhecer sobre os projetos internos, dentre suas características e detalhes, deixando seu jardim colorido de acordo com o que vizualisou ou não. De outro modo, outras ferramentas conseguiriam suprir a necessidade, com o o uso do google drive, porém, nosso produto trabalha com a motivação e engajamento de cada um de deixar seu jardim verde e vivo. 
+</p>
 
 ## 3. Descrições da Parte Interessada e do Usuário
 
