@@ -8,6 +8,7 @@ Data | Versão | Descrição | Autor |
 17/03/2021 | 0.3 | Tópico 6 | Luiz Henrique |
 18/03/2021 | 0.4 | Tópicos 1.1, 1.2, 1.3 e 1.4 | Fellipe Araujo |
 18/03/2021 | 0.5 | Tópicos 2.1, 2.2 e 2.3 | Lucas Macedo |
+19/03/2021 | 0.5 | Tópicos 5 | Leonardo Takehana |
 
 ## 1. Introdução
 
@@ -105,9 +106,12 @@ Acompanhar a trilha de Conhecimento Pessoal: |Ao entrar em um Jardim, aparecerá
 
 ## 5. Recursos do Produto
 
-### 5.1 Recurso 1
-
-### 5.2 Recurso 2
+* O login deverá ser feito diretamente na plataforma a partir dos dados de login do AZC;
+* A plataforma deverá possuir um menu lateral com links e elementos que podem variar para cada usuário;
+* O usuário poderá listar os jardins do conhecimento e escolhe-los a partir de um mapa na tela inicial;
+* Cada jardim deverá possuir uma lista de árvores que poderão  ser selecionadas ou filtradas;
+* As árvores terão elementos de diferentes cores que irão variar de acordo com o estado dos projetos contidos nela;
+* As frutas e folhas da árvore, deverão abrir uma tela indicando os elementos presentes naquele projeto assim como o estado desses elementos, podendo redirecionar o usuário a uma pagina externa com um link de download ou incorporar uma pagina externa.
 
 ## 6. Restrições
 

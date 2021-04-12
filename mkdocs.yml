@@ -15,17 +15,28 @@ theme:
   features:
     - navigation.tabs
   palette:
-    - scheme: 'slate'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep purple
       accent: deep purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 nav:
   - Início: index.md
   - Doc Arquitetura:
     - architecture.md
   - Doc Visão:
     - vision.md
-  - Roadmap:
-    - roadmap.md
   - Backlog:
     - backlog.md
   - Políticas:
